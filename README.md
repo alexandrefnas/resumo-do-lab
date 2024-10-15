@@ -59,4 +59,13 @@ Um dos principais benefícios da computação em nuvem são as opções de capac
     - Usando uma interface de linha de comando.
     - Usando APIs.
     - Usando o PowerShell.
-    
+
+### O modelo de responsabilidade compartilhada da Azure estabelece que:
+
+- Ambiente On-Premises: Total responsabilidade do cliente. O cliente gerencia toda a infraestrutura e segurança.
+
+- Modelo SaaS (Software as a Service): Totalmente administrado pelo provedor de nuvem. O provedor gerencia a aplicação, enquanto o cliente é responsável apenas pelos dados e configurações.
+
+- Modelo PaaS (Platform as a Service): O provedor gerencia a infraestrutura e a plataforma, mas o cliente ainda é responsável pela aplicação e dados. Portanto, o cliente tem menos responsabilidades do que no modelo IaaS (Infrastructure as a Service).
+
+- Responsabilidade: Não é sempre do cliente. A responsabilidade é compartilhada entre cliente e provedor, variando conforme o modelo de serviço.
